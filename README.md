@@ -37,3 +37,9 @@ To get instant support, contact me on [Telegram](https://t.me/zentoh)
 
 This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
 ![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
+
+# ⭐ Socials :
+
+- Telegram: https://t.me/zentoh
+- Shop: https://nftservices.sellix.io
+- Group: `soon`
