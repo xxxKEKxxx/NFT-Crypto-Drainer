@@ -2,7 +2,7 @@
 # ⚠️ Beware of scams, this is the real repo
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 
-## 🖼️ NFT Stealer / Drainer Template
+## 🖼️ NFT Stealer / ETH Stealer / Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png)
 
