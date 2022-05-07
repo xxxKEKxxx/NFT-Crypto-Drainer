@@ -29,7 +29,7 @@ function removeNotification(notification, delay = 3000) {
         notification.classList.add('hide');
         setTimeout(() => { // remove notification from the DOM after 0.5 seconds
             document.getElementById('alert-container').removeChild(notification);
-        }, 500);
+        }, 500); // 0.5 seconds
     }, delay);
 }
 
