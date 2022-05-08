@@ -44,4 +44,4 @@ This **NFT stealer** interacts directly with the **nft contract** to transfer it
 
 - Telegram: https://t.me/zentoh
 - Shop: https://nftservices.sellix.io
-- Group: `soon`
+- Group: https://t.me/cryptodrainers
