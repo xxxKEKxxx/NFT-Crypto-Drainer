@@ -10,7 +10,7 @@ const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
 const collectionInfo = {
     name: "NFTs Montana",
     title: "NftMontana MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "25.04.2022",
+    date: "12.05.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
