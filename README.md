@@ -1,3 +1,4 @@
+# SOON BIGGEST UPDATE
 ### ⚠️ My old Github [@0xAshe](https://github.com/0xAshe/Nft-Drainer-stealer) got termed, I will update the repo here
 # *⛔ Beware of scams, this is the real repo*
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
