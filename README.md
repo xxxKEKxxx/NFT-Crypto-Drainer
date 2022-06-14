@@ -1,5 +1,5 @@
 # **⛔ Beware of scams, this is the real repo**
-# **This drainer might be outdated, msg me to buy full & new**
+## **This drainer might be outdated, msg me to buy full & new**
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 ### 
 
