@@ -1,10 +1,11 @@
 # **⚠️ Beware of scams, this is the real repo**
 ## **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
-### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
 ## 🖼️ All NFT Stealer / ETH Stealer / Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png) [Drainer V2 BETA](https://github.com/0x32Moon/Crypto-Nft-Drainer-V2)
+
+### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
 ## `💡 Features`
 - [x] Inspect Element Detection
