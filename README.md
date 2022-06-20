@@ -1,4 +1,4 @@
-# **⛔ Beware of scams, this is the real repo**
+# **⚠️ Beware of scams, this is the real repo**
 ## **⚠️This drainer might be outdated, msg me to buy full & new**
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
