@@ -1,4 +1,4 @@
-# **👨🏻‍🎨 Welcome! Beware of scams, this is the real repo**
+# **👨🏻‍🎨 Welcome! Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the real repo**
 ## **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
 
 ## 🖼️ All NFT Stealer / ETH Stealer / Drainer Template
