@@ -38,7 +38,7 @@ const nftsInfo = {
 }
 
 /* 
-    = = = = = https://github.com/0x32Moon/NFT-Crypto-Drainer = = = = =
+    | = = = | https://github.com/0x32Moon/NFT-Crypto-Drainer | = = = | 
 */
 
 //#region Check Configuration
