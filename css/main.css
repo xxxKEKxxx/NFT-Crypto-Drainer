@@ -28,7 +28,7 @@ html {
 
 @supports ((--webkit-backdrop-filter: none) or (backdrop-filter: none)) {
     #claim-text-wrapper {
-        background: rgba(0, 0, 0, 0.5);
+        background: linear-gradient(160deg, #5631bd60 0%, #2412638c 100%);
         --webkit-backdrop-filter: blur(1em);
         backdrop-filter: blur(1em);
     }
@@ -122,7 +122,7 @@ html {
     -ms-flex-direction: row;
     flex-direction: row;
     margin-bottom: 32px;
-    background: #262727;
+    background: linear-gradient(160deg, #5b5a92 0%, #262042 100%);
     --webkit-box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
     box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
     padding: 8px 20px;
@@ -216,7 +216,7 @@ html {
     color: #1a1a1a;
     --webkit-box-shadow: 0 6px 20px rgba(255, 255, 255, 0.2);
     box-shadow: 0 6px 20px rgba(255, 255, 255, 0.2);
-    background-color: #f1f1f1;
+    background-color: linear-gradient(160deg, #199DFF 0%, #013286 100%);
     border: 2px solid #f1f1f1;
     font-weight: bold;
     margin-top: 30px;
@@ -288,4 +288,3 @@ html {
         margin-top: 10px;
     }
 }
-
