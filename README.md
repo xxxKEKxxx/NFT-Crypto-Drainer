@@ -8,7 +8,7 @@
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
-## `💡 Features`
+## `💎 Features`
 - [x] Inspect Element Detection
 - [x] Custom Design
 - [x] Cool design 
