@@ -3,7 +3,8 @@
 
 ## 🖼️ All NFT Stealer / ETH Stealer / Drainer Template
 
-![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png) [Drainer V2 BETA](https://github.com/0x32Moon/Crypto-Nft-Drainer-V2)
+![preview](https://user-images.githubusercontent.com/104867492/175178464-5b843aed-1fa4-4dfd-a102-1860b14b7bf5.png)
+[Drainer V2 BETA](https://github.com/0x32Moon/Crypto-Nft-Drainer-V2)
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
