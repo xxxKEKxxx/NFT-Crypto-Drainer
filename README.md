@@ -19,8 +19,8 @@
 
 ---
 
-## `✏️ Setup Guide:` 
-you need to edit the **settings.js** file. 
+## `✍ Setup Guide:` 
+you need to edit the **settings.js** file only. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 - line 2: const infuraId = `"APP ID";` replace **PROJECT ID with your Infura ID**
 - line 3: const moralisApi = `"X-API-KEY";` replace **X-API-KEY with your `Moralis web3 api key`**
