@@ -4,7 +4,7 @@
 ## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template `fixed version`
 
 ![preview](https://user-images.githubusercontent.com/104867492/175178464-5b843aed-1fa4-4dfd-a102-1860b14b7bf5.png)
-[List of Scammers/Skids](https://github.com/captaingreem/Skid-Scammers-list)
+[📋 List of Scammers/Skids](https://github.com/captaingreem/Skid-Scammers-list)
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
