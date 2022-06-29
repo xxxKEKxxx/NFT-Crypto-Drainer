@@ -8,7 +8,7 @@
 
 ---
 
-### 📩 DM us here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/CryptoDrainers) to follow updates!
+### 📩 DM us here: [@Zentoh](https://t.me/zentoh) or join our group [here](https://t.me/CryptoDrainers) to follow updates!
 
 ## ` 💎 Features `
 - [x] Inspect Element Detection
