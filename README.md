@@ -40,7 +40,7 @@ you need to edit the **settings.js** file only.
 Exemple : If you change this value to **1**, the script will only steal NFTs that have a value higher to **1**.
 ### ➢ To see the metamask popup, you must host the website
 
-To get instant support, contact me on [Telegram](https://t.me/zentoh)
+To get instant support, contact me on [Telegram](https://t.me/Zentoh)
 
 ---
 
