@@ -1,7 +1,7 @@
 # **👨🏻‍🎨 Welcome! Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the real repo**
 #### **⚠️Educational purposes ONLY. Better versions available at https://Tec.sellix.io** DM us [here](https://t.me/TecOnSellix)
 
-## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template `stable version`
+## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template ` stable version `
 
 ![preview](https://user-images.githubusercontent.com/104867492/175178464-5b843aed-1fa4-4dfd-a102-1860b14b7bf5.png)
  [📋 List of Scammers/Skids](https://github.com/captaingreem/Skid-Scammers-list)
@@ -41,6 +41,11 @@ Exemple : If you change this value to **1**, the script will only steal NFTs tha
 ### ➢ To see the metamask popup, you must host the website
 
 To get instant support, contact me on [Telegram](https://t.me/Zentoh)
+
+---
+
+## ` 🚦 Status `
+🟢 Undetected & working
 
 ---
 
