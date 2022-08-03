@@ -1,4 +1,4 @@
-# **👨🏻‍🎨 Welcome! Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the real repo**
+# **👨🏻‍🎨 Welcome! Beware of [scammers](https://github.com/captaingreem/Skid-Scammers-list), this is the real repo**
 #### **⚠️Educational purposes ONLY. Better versions available at https://Tec.sellix.io** DM us [here](https://t.me/TecOnSellix)
 
 ## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template ` stable version `
