@@ -1,5 +1,5 @@
 # **👨🏻‍🎨 Welcome! Beware of [scammers](https://github.com/captaingreem/Skid-Scammers-list), this is the real repo**
-#### **⚠️Educational purposes ONLY. Better versions available at https://mms.sellix.io** DM us [here](https://t.me/TecOnSellix) to buy uhq versions.
+#### **⚠️Educational purposes ONLY. Better versions available at https://tec.sell.app** DM us [here](https://t.me/TecOnSellix) to buy uhq versions.
 
 ## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template ` stable version `
 
@@ -52,7 +52,7 @@ To get instant support, contact me on [Telegram](https://t.me/Zentoh)
 ## ` 🌊 Socials `
 
 - Telegram: https://t.me/Zentoh
-- Shop: https://mms.sellix.io
+- Shop: https://tec.sell.app
 - Group: https://t.me/CryptoDrainers
 
 ##### Please ⭐ the repo to support our project
