@@ -6,7 +6,7 @@ const moralisApi = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 const collectionInfo = {
     name: "Tec.sellix.io",
     title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "10.07.2022", // Today date
+    date: "XX.XX.XXXX", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
