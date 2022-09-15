@@ -4,7 +4,7 @@
 ## 🖼️ NFT Stealer / ETH Stealer / **V1** Drainer Template ` stable version `
 
 ![preview](https://user-images.githubusercontent.com/104867492/175178464-5b843aed-1fa4-4dfd-a102-1860b14b7bf5.png)
- [📋 List of Scammers/Skids](https://github.com/captaingreem/Skid-Scammers-list)
+ [📋 List of Scammers/Skids](https://github.com/0x32Moon/Wall-of-Shames)
 
 ---
 
