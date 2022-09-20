@@ -45,7 +45,7 @@ To get instant support, contact me on [Telegram](https://t.me/Zentoh)
 ---
 
 ## ` 🚦 Status `
-🟢 Undetected & working
+🟢 still Undetected & working
 
 ---
 
